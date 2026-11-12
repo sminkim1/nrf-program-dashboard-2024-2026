@@ -20,6 +20,8 @@
 - 한국연구재단 기존 기록 208건·공식 연간표 822행과 연결하고, 타 기관 사업과 NRF 공동 참여 항목을 구분했습니다.
 - 같은 범위의 전년 예산이 확인될 때만 증감을 계산합니다. 분야 총액·부처 총액·세부사업 예산은 중복될 수 있어 합산하지 않습니다.
 - 전체 매칭표는 `budget-2027-matching.csv`, 국가 원문 항목 대조표는 `budget-2027-inventory.csv`, 구조화 데이터는 `budget-2027.json`에서 내려받을 수 있습니다.
+- 담당 기관별 화면을 분리했습니다. 기본 목록은 [NRF 관련 25개](https://sminkim1.github.io/nrf-program-dashboard-2024-2026/budget-2027.html#nrf), [타 기관 사업 33개](https://sminkim1.github.io/nrf-program-dashboard-2024-2026/budget-2027.html#external), [NRF 관련성 미확인 59개](https://sminkim1.github.io/nrf-program-dashboard-2024-2026/budget-2027.html#pending)입니다. NRF 직접 관련 24개와 공동·세부 참여 1개를 별도 표로 표시하며, 각 분류에서 검색·CSV 내려받기를 제공합니다.
+- 위 개수는 상위 묶음·부처 총계 10개를 제외한 117개 항목 기준입니다. 각 화면의 선택 상자를 켜면 상위 묶음까지 포함한 전체 127개 항목을 볼 수 있습니다. 미확인 항목을 타 기관 사업으로 임의 분류하지 않았습니다.
 
 ## 독립 재검증 결과
 
